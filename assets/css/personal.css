@@ -1,7 +1,7 @@
 /* ===== Zixuan's personal touches (loaded after home.css; delete this file to revert to the original theme look) ===== */
 
-/* 1. Personal accent color: SUSTech-inspired deep teal instead of the theme's navy */
-:root { --zc-accent: #0e6b5c; --zc-accent-hover: #12907a; --zc-accent-soft: #e8f4f1; }
+/* 1. Personal accent color: classic old-school navy blue on white */
+:root { --zc-accent: #274577; --zc-accent-hover: #1565c0; --zc-accent-soft: #eef3fb; }
 
 .news-date,
 .experience-info a,
@@ -10,7 +10,7 @@ div.markdown-body a, a { color: var(--zc-accent); }
 div.markdown-body a:hover, a:hover { color: var(--zc-accent-hover); }
 .pub-button.active { background-color: var(--zc-accent); border-color: var(--zc-accent); }
 .pub-list-badge { background: var(--zc-accent-soft); color: var(--zc-accent); }
-.news-box { background: #f5f9f8; border-left: 3px solid var(--zc-accent); }
+.news-box { background: #f6f8fc; border-left: 3px solid var(--zc-accent); }
 .page__content h2 { position: relative; }
 .page__content h2::before {
   content: ""; display: inline-block; width: 4px; height: 0.9em; margin-right: 8px;
@@ -34,5 +34,5 @@ div.markdown-body a:hover, a:hover { color: var(--zc-accent-hover); }
 .zc-tags { display: flex; flex-wrap: wrap; gap: 8px; margin: 4px 0 18px; padding: 0; list-style: none; }
 .zc-tags li {
   margin: 0; padding: 3px 12px; border-radius: 999px; font-size: 0.85em;
-  background: var(--zc-accent-soft); color: var(--zc-accent); border: 1px solid rgba(14,107,92,.18);
+  background: var(--zc-accent-soft); color: var(--zc-accent); border: 1px solid rgba(39,69,119,.18);
 }
