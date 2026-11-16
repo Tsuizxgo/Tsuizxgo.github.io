@@ -1,7 +1,7 @@
 locale                   : "en-US"
 title                    : "Zixuan Cui / Homepage"
 title_separator          : "-"
-name                     : "Zixuan Cui"
+name                     : "Zixuan Cui(崔子璇)"
 description              : &description "Zixuan Cui's academic homepage"
 url                      : ""
 baseurl                  : ""
@@ -9,7 +9,7 @@ repository               : "Tsuizxgo/tsuizxgo.github.io"
 
 author:
   avatar           : "avatar.png"
-  name             : "Zixuan Cui(崔子璇)"
+  name             : "Zixuan Cui"
   pronouns         :
   bio              : "Undergraduate Student"
   location         : "Shenzhen, China"
