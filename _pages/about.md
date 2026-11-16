@@ -3,15 +3,23 @@ permalink: /
 author_profile: true
 stylesheets:
   - /assets/css/home.css
+  - /assets/css/personal.css
 redirect_from: 
   - /about/
   - /about.html
 ---
 <h1 class="main-heading">Hi there <img src="images/Hi.gif" width="40px"> Welcome to my Homepage!</h1>
+<div class="zc-wave" aria-hidden="true"><span style="animation-delay:-0.00s"></span><span style="animation-delay:-0.37s"></span><span style="animation-delay:-0.74s"></span><span style="animation-delay:-1.11s"></span><span style="animation-delay:-0.18s"></span><span style="animation-delay:-0.55s"></span><span style="animation-delay:-0.92s"></span><span style="animation-delay:-1.29s"></span><span style="animation-delay:-0.36s"></span><span style="animation-delay:-0.73s"></span><span style="animation-delay:-1.10s"></span><span style="animation-delay:-0.17s"></span><span style="animation-delay:-0.54s"></span><span style="animation-delay:-0.91s"></span><span style="animation-delay:-1.28s"></span><span style="animation-delay:-0.35s"></span><span style="animation-delay:-0.72s"></span><span style="animation-delay:-1.09s"></span><span style="animation-delay:-0.16s"></span><span style="animation-delay:-0.53s"></span><span style="animation-delay:-0.90s"></span><span style="animation-delay:-1.27s"></span><span style="animation-delay:-0.34s"></span><span style="animation-delay:-0.71s"></span><span style="animation-delay:-1.08s"></span><span style="animation-delay:-0.15s"></span><span style="animation-delay:-0.52s"></span><span style="animation-delay:-0.89s"></span></div>
 
-Hi! I'm <strong style="color:#274577;">Zixuan Cui</strong>, currently an undergraduate student in Computer Science at the <a href="https://www.sustech.edu.cn/en/">Southern University of Science and Technology (SUSTech)</a>, Shenzhen, China.
+Hi! I'm <strong style="color:#0e6b5c;">Zixuan Cui</strong>, currently an undergraduate student in Computer Science at the <a href="https://www.sustech.edu.cn/en/">Southern University of Science and Technology (SUSTech)</a>, Shenzhen, China.
 
-I am currently working on <strong style="color:#274577;">Audio-Visual Speech Enhancement</strong> under the guidance of <strong style="color:#274577;">Prof. Zhongqiu Wang</strong>, exploring how visual cues such as lip movements can help recover clean speech in noisy environments.
+I am currently working on <strong style="color:#0e6b5c;">Audio-Visual Speech Enhancement</strong> under the guidance of <strong style="color:#0e6b5c;">Prof. Zhongqiu Wang</strong>, exploring how visual cues such as lip movements can help recover clean speech in noisy environments.
+
+<ul class="zc-tags">
+  <li>🎧 Speech Enhancement</li>
+  <li>👄 Audio-Visual Learning</li>
+  <li>🧠 Deep Learning</li>
+</ul>
 
 Please feel free to reach out 🥳, if you are interested in collaboration or potential opportunities!
 
@@ -80,7 +88,7 @@ Publications
       Using visual information from the speaker's face to separate and enhance target speech from noisy, multi-speaker audio.
       <br>
       <div style="height: 0.5em;"></div>
-      <b><i style="color:#83a1c7;">In Progress &nbsp;
+      <b><i style="color:#3f9a86;">In Progress &nbsp;
       </i></b> 
       <a href="#">[Paper]</a> 
       <a href="#">[Code]</a> 
@@ -103,7 +111,7 @@ Publications
       Course notes and study materials collected during my undergraduate studies at SUSTech.
       <br>
       <div style="height: 0.5em;"></div>
-      <b><i style="color:#83a1c7;">Open Source &nbsp;
+      <b><i style="color:#3f9a86;">Open Source &nbsp;
       </i></b>
       <a href="https://github.com/Tsuizxgo/SUSTechNotes">[Code]</a> 
     </div>
@@ -156,7 +164,7 @@ Talks
 
 Mottos
 --------
-<blockquote style="border-left: 3px solid #274577; margin: 16px 0; padding: 8px 18px; color: #555; font-style: italic;">
+<blockquote style="border-left: 3px solid #0e6b5c; margin: 16px 0; padding: 8px 18px; color: #555; font-style: italic;">
   “Stay hungry, stay foolish.”<br>
   <span style="display: block; margin-top: 6px; text-align: right; font-style: normal; color: #888;">— Steve Jobs</span>
 </blockquote>
